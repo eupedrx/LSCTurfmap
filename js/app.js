@@ -263,7 +263,7 @@ $(function() {
 					bounds.extend(element);
 				});
 			map.panTo(bounds.getCenter());
-			map.setZoom(7);
+			map.setZoom(1);
 		},
 
 		render: function() {
@@ -422,27 +422,26 @@ $(function() {
 		normalizeCoordinates: function(coord, zoom) {
 			var y = coord.y;
 			var x = coord.x;
-
-			// tile range in one direction range is dependent on zoom level
-			// 0 = 1 tile, 1 = 2 tiles, 2 = 4 tiles, 3 = 8 tiles, etc
-			var tileRange = 1 << zoom;
-
-			// don't repeat across y-axis (vertically)
-			if (y < 0 || y >= tileRange) {
-				return null;
-			}
-
-			// repeat across x-axis
+		
+			// Defina o intervalo máximo de tiles em função do nível de zoom
+			var tileRange = 1 << zoom;  // 2^zoom
+		
+			// Impedir coordenadas fora do intervalo, garantindo que as tiles não sejam repetidas
 			if (x < 0 || x >= tileRange) {
-				x = ((x % tileRange) + tileRange) % tileRange;
+				return null;  // Retorna null para coordenadas inválidas
 			}
-
+		
+			if (y < 0 || y >= tileRange) {
+				return null;  // Retorna null para coordenadas inválidas
+			}
+		
 			return {
 				x: x,
-				y: y,
+				y: y
 			};
 		},
-
+		
+		
 		showLocations: function(locations) {
 			_.each(
 				locations,
