@@ -258,8 +258,26 @@
 			{"lat": -75.341, "lng": -5.198},
 			{"lat": -75.321, "lng": -5.351}
 		]
-	}
+	},
 	
+	{
+		"title": "W/S School Yard Crips",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/175-ws-school-yard-crips/",
+		"order": 0,
+		"strokecolor": "254EEA",
+		"fillcolor": "254EEA",
+		"latlngarray":  [
+			{"lat": -73.589, "lng": -17.520},
+			{"lat": -73.323, "lng": -18.586},
+			{"lat": -73.184, "lng": -18.795},
+			{"lat": -73.101, "lng": -19.861},
+			{"lat": -72.595, "lng": -18.399},
+			{"lat": -72.795, "lng": -17.597},
+			{"lat": -72.873, "lng": -17.323},
+			{"lat": -73.136, "lng": -16.180}
+		]
+	}
 	
 ]
 
