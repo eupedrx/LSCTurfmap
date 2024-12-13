@@ -1,14 +1,271 @@
-{
-	"title": "Black Mafia Family",
-	"notes": "",
-	"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/95-black-mafia-family-bmf/",
-	"order": 0,
-	"strokecolor": "A35E19",
-	"fillcolor": "A35E19",
-	"latlngarray": [
-		{"lat": -73.512, "lng": -8.011},
-		{"lat": -74.157, "lng": -10.406},
-		{"lat": -74.700, "lng": -8.154},
-		{"lat": -73.952, "lng": -6.022}
-	]
-}
+[
+	{
+		"title": "Black Mafia Family",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/95-black-mafia-family-bmf/",
+		"order": 0,
+		"strokecolor": "A35E19",
+		"fillcolor": "A35E19",
+		"latlngarray": [
+			{"lat": -73.512, "lng": -8.011},
+			{"lat": -74.157, "lng": -10.406},
+			{"lat": -74.700, "lng": -8.154},
+			{"lat": -73.952, "lng": -6.022}
+		]
+	},
+	
+	{
+		"title": "Kirshenbaum Network",
+		"notes": "Afiliação: Hye Connection",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/95-black-mafia-family-bmf/",
+		"order": 0,
+		"strokecolor": "350563",
+		"fillcolor": "350563",
+		"latlngarray": [
+			{"lat": -70.044, "lng": -3.266},
+			{"lat": -70.036, "lng": -0.718},
+			{"lat": -70.390, "lng": -0.597},
+			{"lat": -70.845, "lng": 0.293},
+			{"lat": -71.480, "lng": 0.315},
+			{"lat": -71.491, "lng": -0.915},
+			{"lat": -71.435, "lng": -1.377},
+			{"lat": -70.910, "lng": -3.255},
+			{"lat": -70.559, "lng": -4.530}
+		]
+	},
+	{
+		"title": "Kirshenbaum Network",
+		"notes": "Afiliação: Hye Connection",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/95-black-mafia-family-bmf/",
+		"order": 0,
+		"strokecolor": "350563",
+		"fillcolor": "350563",
+		"latlngarray": [
+			{"lat": -70.411, "lng": -5.102},
+			{"lat": -69.953, "lng": -3.960},
+			{"lat": -69.798, "lng": -4.465},
+			{"lat": -69.798, "lng": -5.135},
+			{"lat": -69.790, "lng": -5.399},
+			{"lat": -69.749, "lng": -8.036},
+			{"lat": -70.047, "lng": -8.047},
+			{"lat": -70.234, "lng": -8.179},
+			{"lat": -70.274, "lng": -5.872},
+			{"lat": -70.300, "lng": -5.641}
+		]
+		
+	},
+
+	{
+		"title": "W/S Tree Top Piru",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/96-ws-tree-top-piru/",
+		"order": 0,
+		"strokecolor": "830303",
+		"fillcolor": "830303",
+		"latlngarray": [
+			{"lat": -74.280, "lng": -17.778},
+			{"lat": -74.366, "lng": -18.492},
+			{"lat": -75.831, "lng": -11.702},
+			{"lat": -75.707, "lng": -11.307},
+			{"lat": -75.424, "lng": -12.647},
+			{"lat": -75.227, "lng": -12.065},
+			{"lat": -75.097, "lng": -12.526},
+			{"lat": -74.618, "lng": -14.822},
+			{"lat": -74.454, "lng": -15.273},
+			{"lat": -74.148, "lng": -16.613}
+		]
+	},
+
+	{
+		"title": "The Vanilla Case",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/71-the-vanilla-case/",
+		"order": 0,
+		"strokecolor": "a22dba",
+		"fillcolor": "a22dba",
+		"latlngarray": [
+			{"lat": -71.056, "lng": -10.450},
+			{"lat": -70.851, "lng": -11.581},
+			{"lat": -70.619, "lng": -11.878},
+			{"lat": -70.359, "lng": -12.197},
+			{"lat": -70.114, "lng": -12.614},
+			{"lat": -70.001, "lng": -10.922},
+			{"lat": -69.835, "lng": -9.977},
+			{"lat": -69.737, "lng": -9.066},
+			{"lat": -69.748, "lng": -8.824},
+			{"lat": -69.986, "lng": -8.813},
+			{"lat": -70.436, "lng": -9.088}
+		]
+	},
+
+	{
+		"title": "Kraja Organizimi",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/75-kraja-organizimi/",
+		"order": 0,
+		"strokecolor": "650404",
+		"fillcolor": "650404",
+		"latlngarray": [
+			{"lat": -74.369, "lng": -19.892},
+			{"lat": -74.152, "lng": -19.244},
+			{"lat": -74.010, "lng": -18.750},
+			{"lat": -73.602, "lng": -17.508},
+			{"lat": -73.340, "lng": -18.574},
+			{"lat": -73.191, "lng": -18.827},
+			{"lat": -73.118, "lng": -19.837},
+			{"lat": -73.035, "lng": -20.551},
+			{"lat": -73.289, "lng": -20.540},
+			{"lat": -73.296, "lng": -21.694},
+			{"lat": -73.983, "lng": -21.705},
+			{"lat": -74.058, "lng": -21.320}
+		]
+	},
+
+	{
+		"title": "Mongols MC",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/50-the-laughlin-river-run-will-never-be-forgotten-%E2%80%94-splittin-lanes-smashin-lames/",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -68.557, "lng": -50.833},
+			{"lat": -68.844, "lng": -50.602},
+			{"lat": -68.995, "lng": -50.503},
+			{"lat": -69.501, "lng": -50.294},
+			{"lat": -69.803, "lng": -50.040},
+			{"lat": -69.936, "lng": -49.898},
+			{"lat": -70.150, "lng": -49.656},
+			{"lat": -70.361, "lng": -49.217},
+			{"lat": -70.683, "lng": -48.744},
+			{"lat": -69.478, "lng": -42.754},
+			{"lat": -68.574, "lng": -44.235},
+			{"lat": -67.594, "lng": -45.717},
+			{"lat": -68.038, "lng": -47.871}
+		]
+	},
+
+	{
+		"title": "Kilhaney Shannon Gang Ring",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/105-kilhaney-shannon-gang-ring/",
+		"order": 0,
+		"strokecolor": "0b8a04",
+		"fillcolor": "0b8a04",
+		"latlngarray": [
+			{"lat": -65.183, "lng": 11.960},
+			{"lat": -64.798, "lng": 11.202},
+			{"lat": -64.563, "lng": 10.696},
+			{"lat": -64.298, "lng": 10.202},
+			{"lat": -63.972, "lng": 9.708},
+			{"lat": -63.705, "lng": 9.180},
+			{"lat": -63.525, "lng": 8.587},
+			{"lat": -63.436, "lng": 7.994},
+			{"lat": -63.229, "lng": 7.203},
+			{"lat": -63.190, "lng": 6.247},
+			{"lat": -63.194, "lng": 5.126},
+			{"lat": -63.185, "lng": 4.808},
+			{"lat": -63.603, "lng": 4.830},
+			{"lat": -63.773, "lng": 4.808},
+			{"lat": -63.967, "lng": 4.709},
+			{"lat": -64.549, "lng": 4.742},
+			{"lat": -65.091, "lng": 4.709},
+			{"lat": -65.285, "lng": 4.720},
+			{"lat": -65.271, "lng": 7.225},
+			{"lat": -65.262, "lng": 7.939},
+			{"lat": -65.202, "lng": 11.509}
+		]
+	},
+	{
+		"title": "Kilhaney Shannon Gang Ring",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/105-kilhaney-shannon-gang-ring/",
+		"order": 0,
+		"strokecolor": "0b8a04",
+		"fillcolor": "0b8a04",
+		"latlngarray": [
+			{"lat": -77.595, "lng": 7.801},
+			{"lat": -77.623, "lng": 9.625},
+			{"lat": -77.659, "lng": 11.415},
+			{"lat": -76.734, "lng": 11.767},
+			{"lat": -76.666, "lng": 8.196}
+		]
+	},
+
+	{
+		"title": "Rancho Projects Vagos 13",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/80-rancho-projects-vagos-13-rv-13/",
+		"order": 0,
+		"strokecolor": "d6c703",
+		"fillcolor": "e5d504",
+		"latlngarray": [
+			{"lat": -76.550, "lng": -1.314},
+			{"lat": -76.575, "lng": -1.522},
+			{"lat": -76.773, "lng": -2.291},
+			{"lat": -76.860, "lng": -2.566},
+			{"lat": -77.034, "lng": -3.236},
+			{"lat": -77.108, "lng": -3.621},
+			{"lat": -77.137, "lng": -3.786},
+			{"lat": -77.176, "lng": -4.137},
+			{"lat": -77.191, "lng": -4.598},
+			{"lat": -77.162, "lng": -4.983},
+			{"lat": -77.105, "lng": -5.313},
+			{"lat": -77.071, "lng": -5.576},
+			{"lat": -76.616, "lng": -7.686},
+			{"lat": -76.185, "lng": -6.159},
+			{"lat": -75.748, "lng": -4.577}
+		]
+	},
+
+	{
+		"title": "Rancho Projects Vagos 13",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/80-rancho-projects-vagos-13-rv-13/",
+		"order": 0,
+		"strokecolor": "d6c703",
+		"fillcolor": "e5d504",
+		"latlngarray": [
+			{"lat": -76.519, "lng": -8.135},
+			{"lat": -76.429, "lng": -8.582},
+			{"lat": -76.391, "lng": -8.879},
+			{"lat": -76.370, "lng": -9.098},
+			{"lat": -76.352, "lng": -9.439},
+			{"lat": -76.328, "lng": -10.010},
+			{"lat": -76.201, "lng": -9.966},
+			{"lat": -76.019, "lng": -9.307},
+			{"lat": -75.686, "lng": -8.176},
+			{"lat": -75.284, "lng": -6.846},
+			{"lat": -75.650, "lng": -5.033},
+			{"lat": -76.156, "lng": -6.802}
+		]
+	},
+
+	{
+		"title": "No Fucks Given",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/97-no-fucks-given/",
+		"order": 0,
+		"strokecolor": "043394",
+		"fillcolor": "043394",
+		"latlngarray": [
+			{"lat": -75.111, "lng": -6.263},
+			{"lat": -74.413, "lng": -4.022},
+			{"lat": -74.630, "lng": -2.989},
+			{"lat": -74.662, "lng": -2.836},
+			{"lat": -74.895, "lng": -1.825},
+			{"lat": -75.512, "lng": -4.363},
+			{"lat": -75.341, "lng": -5.198},
+			{"lat": -75.321, "lng": -5.351}
+		]
+	}
+	
+	
+]
+
+
+
+
+
+
+

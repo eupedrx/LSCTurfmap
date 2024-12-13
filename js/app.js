@@ -127,7 +127,7 @@ $(function() {
 	});
 	var sections = new SectionCollection([
 		new SectionModel({
-			name: 'Geral',
+			name: 'General',
 			categories: new CategoriesCollection([
 				new CategoryModel({
 					name: 'Bairros',
@@ -136,11 +136,11 @@ $(function() {
 					url: 'data/neighborhoods.json',
 				}),
 				new CategoryModel({
-					name: 'Territorios',
+					name: 'Territories',
 					icon: 'General/wall-breach.png',
 					enabled: true,
 					url: 'data/territories.4.json',
-				})
+				}),	
 			]),
 		}),
 	]);
@@ -263,7 +263,7 @@ $(function() {
 					bounds.extend(element);
 				});
 			map.panTo(bounds.getCenter());
-			map.setZoom(1);
+			map.setZoom(7);
 		},
 
 		render: function() {
@@ -422,26 +422,27 @@ $(function() {
 		normalizeCoordinates: function(coord, zoom) {
 			var y = coord.y;
 			var x = coord.x;
-		
-			// Defina o intervalo máximo de tiles em função do nível de zoom
-			var tileRange = 1 << zoom;  // 2^zoom
-		
-			// Impedir coordenadas fora do intervalo, garantindo que as tiles não sejam repetidas
-			if (x < 0 || x >= tileRange) {
-				return null;  // Retorna null para coordenadas inválidas
-			}
-		
+
+			// tile range in one direction range is dependent on zoom level
+			// 0 = 1 tile, 1 = 2 tiles, 2 = 4 tiles, 3 = 8 tiles, etc
+			var tileRange = 1 << zoom;
+
+			// don't repeat across y-axis (vertically)
 			if (y < 0 || y >= tileRange) {
-				return null;  // Retorna null para coordenadas inválidas
+				return null;
 			}
-		
+
+			// repeat across x-axis
+			if (x < 0 || x >= tileRange) {
+				x = ((x % tileRange) + tileRange) % tileRange;
+			}
+
 			return {
 				x: x,
-				y: y
+				y: y,
 			};
 		},
-		
-		
+
 		showLocations: function(locations) {
 			_.each(
 				locations,
@@ -535,6 +536,28 @@ $(function() {
 	mapView.render();
 	categoriesView.render();
 });
+
+function printArray() {
+	var msg = 'Lat e long da sua turf\n'
+
+	msg += '```json\n\t{\n\t\t"type": "Territories",'
+	+ '\n\t\t"title": "",'
+	+ '\n\t\t"notes": "",'
+	+ '\n\t\t"wiki_link": "",'
+	+ '\n\t\t"order": 0,'
+	+ '\n\t\t"strokecolor": "FF0000",'
+	+ '\n\t\t"fillcolor": "FF0000",'
+	+ '\n\t\t"latlngarray": [\n';
+	var i;
+	for (i = 0; i < window.locs.length; i++) {
+		msg += '\t\t\t{"lat": ' + window.locs[i].position.lat().toFixed(3) + ', "lng": ' + window.locs[i].position.lng().toFixed(3) + '}' + (window.locs.length - 1 == i ? '' : ',') + '\n';
+	}
+	msg += '\t\t]'
+	+ '\n\t},\n```';
+	alert(msg);
+	console.log(msg);
+}
+
 function toggleRuler() {
 	addruler(window.map);
 }
@@ -602,7 +625,7 @@ function Label(opt_options) {
 	span.style.cssText =
 		'position: relative; left: 0%; top: -8px; ' +
 		'white-space: nowrap; border: 0px; font-family:arial; font-weight:bold;' +
-		'padding: 2px; background-color: #3d0033; ' +
+		'padding: 2px; background-color: #ddd; ' +
 		'opacity: 1; ' +
 		'filter: alpha(opacity=75); ' +
 		'-ms-filter: "alpha(opacity=75)"; ' +
