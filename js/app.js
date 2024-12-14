@@ -136,7 +136,7 @@ $(function() {
 					url: 'data/neighborhoods.json',
 				}),
 				new CategoryModel({
-					name: 'Territories',
+					name: 'Territorios',
 					icon: 'General/wall-breach.png',
 					enabled: true,
 					url: 'data/territories.4.json',

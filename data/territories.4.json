@@ -434,6 +434,29 @@
 			{"lat": -72.384, "lng": -43.207},
 			{"lat": -72.035, "lng": -44.031}
 		]
+	},
+
+	{
+		"title": "Innocence City Royals",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/70-innocence-city-royals/",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": 
+		[
+			{"lat": -72.336, "lng": -4.913},
+			{"lat": -73.173, "lng": -1.584},
+			{"lat": -72.943, "lng": -1.123},
+			{"lat": -72.667, "lng": -0.760},
+			{"lat": -72.396, "lng": 0.042},
+			{"lat": -72.196, "lng": -0.222},
+			{"lat": -71.699, "lng": 0.119},
+			{"lat": -71.706, "lng": -1.156},
+			{"lat": -71.657, "lng": -1.320},
+			{"lat": -71.857, "lng": -2.408},
+			{"lat": -72.044, "lng": -3.441}
+		]
 	}
 ]
 
