@@ -457,6 +457,23 @@
 			{"lat": -71.857, "lng": -2.408},
 			{"lat": -72.044, "lng": -3.441}
 		]
+	},
+
+	{
+		"title": "Chosen Few MC",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/38-nobody-will-destroy-our-culture/",
+		"order": 0,
+		"strokecolor": "b81414",
+		"fillcolor": "ff0000",
+		"latlngarray": 
+		[
+			{"lat": -72.393, "lng": -17.833},
+			{"lat": -71.987, "lng": -16.669},
+			{"lat": -71.949, "lng": -14.779},
+			{"lat": -72.237, "lng": -13.647},
+			{"lat": -72.940, "lng": -15.636}
+		]
 	}
 ]
 
