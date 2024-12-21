@@ -7,10 +7,10 @@
 		"strokecolor": "A35E19",
 		"fillcolor": "A35E19",
 		"latlngarray": [
-			{"lat": -73.512, "lng": -8.011},
-			{"lat": -74.157, "lng": -10.406},
-			{"lat": -74.700, "lng": -8.154},
-			{"lat": -73.952, "lng": -6.022}
+			{"lat": -73.484, "lng": -8.056},
+			{"lat": -74.166, "lng": -10.473},
+			{"lat": -74.942, "lng": -7.023},
+			{"lat": -74.226, "lng": -4.793}
 		]
 	},
 	
@@ -63,16 +63,13 @@
 		"strokecolor": "830303",
 		"fillcolor": "830303",
 		"latlngarray": [
-			{"lat": -74.280, "lng": -17.778},
-			{"lat": -74.366, "lng": -18.492},
-			{"lat": -75.831, "lng": -11.702},
-			{"lat": -75.707, "lng": -11.307},
-			{"lat": -75.424, "lng": -12.647},
-			{"lat": -75.227, "lng": -12.065},
-			{"lat": -75.097, "lng": -12.526},
-			{"lat": -74.618, "lng": -14.822},
-			{"lat": -74.454, "lng": -15.273},
-			{"lat": -74.148, "lng": -16.613}
+			{"lat": -75.097, "lng": -12.545},
+			{"lat": -75.286, "lng": -13.193},
+			{"lat": -75.427, "lng": -13.742},
+			{"lat": -74.367, "lng": -18.538},
+			{"lat": -74.143, "lng": -16.638},
+			{"lat": -74.447, "lng": -15.297},
+			{"lat": -74.608, "lng": -14.792}
 		]
 	},
 
@@ -212,56 +209,6 @@
 			{"lat": -76.666, "lng": 8.196}
 		]
 	},
-
-	{
-		"title": "Rancho Projects Vagos 13",
-		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/80-rancho-projects-vagos-13-rv-13/",
-		"order": 0,
-		"strokecolor": "d6c703",
-		"fillcolor": "e5d504",
-		"latlngarray": [
-			{"lat": -76.550, "lng": -1.314},
-			{"lat": -76.575, "lng": -1.522},
-			{"lat": -76.773, "lng": -2.291},
-			{"lat": -76.860, "lng": -2.566},
-			{"lat": -77.034, "lng": -3.236},
-			{"lat": -77.108, "lng": -3.621},
-			{"lat": -77.137, "lng": -3.786},
-			{"lat": -77.176, "lng": -4.137},
-			{"lat": -77.191, "lng": -4.598},
-			{"lat": -77.162, "lng": -4.983},
-			{"lat": -77.105, "lng": -5.313},
-			{"lat": -77.071, "lng": -5.576},
-			{"lat": -76.616, "lng": -7.686},
-			{"lat": -76.185, "lng": -6.159},
-			{"lat": -75.748, "lng": -4.577}
-		]
-	},
-
-	{
-		"title": "Rancho Projects Vagos 13",
-		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/80-rancho-projects-vagos-13-rv-13/",
-		"order": 0,
-		"strokecolor": "d6c703",
-		"fillcolor": "e5d504",
-		"latlngarray": [
-			{"lat": -76.519, "lng": -8.135},
-			{"lat": -76.429, "lng": -8.582},
-			{"lat": -76.391, "lng": -8.879},
-			{"lat": -76.370, "lng": -9.098},
-			{"lat": -76.352, "lng": -9.439},
-			{"lat": -76.328, "lng": -10.010},
-			{"lat": -76.201, "lng": -9.966},
-			{"lat": -76.019, "lng": -9.307},
-			{"lat": -75.686, "lng": -8.176},
-			{"lat": -75.284, "lng": -6.846},
-			{"lat": -75.650, "lng": -5.033},
-			{"lat": -76.156, "lng": -6.802}
-		]
-	},
-
 	{
 		"title": "No Fucks Given",
 		"notes": "",
@@ -278,25 +225,6 @@
 			{"lat": -75.512, "lng": -4.363},
 			{"lat": -75.341, "lng": -5.198},
 			{"lat": -75.321, "lng": -5.351}
-		]
-	},
-	
-	{
-		"title": "W/S School Yard Crips",
-		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/175-ws-school-yard-crips/",
-		"order": 0,
-		"strokecolor": "254EEA",
-		"fillcolor": "254EEA",
-		"latlngarray":  [
-			{"lat": -73.589, "lng": -17.520},
-			{"lat": -73.323, "lng": -18.586},
-			{"lat": -73.184, "lng": -18.795},
-			{"lat": -73.101, "lng": -19.861},
-			{"lat": -72.595, "lng": -18.399},
-			{"lat": -72.795, "lng": -17.597},
-			{"lat": -72.873, "lng": -17.323},
-			{"lat": -73.136, "lng": -16.180}
 		]
 	},
 
@@ -411,31 +339,23 @@
 		
 	},
 	{
-		"title": "WSlongox3 Cyclones",
+		"title": "Playboys 13 (PB13)",
 		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/216-wslongox3-cyclones/",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/319-playboys-13-pbs13/",
 		"order": 0,
-		"strokecolor": "5e0101",
-		"fillcolor": "b30202",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -71.827, "lng": -44.825},
-			{"lat": -72.035, "lng": -45.847},
-			{"lat": -72.092, "lng": -46.253},
-			{"lat": -71.872, "lng": -46.737},
-			{"lat": -72.123, "lng": -47.923},
-			{"lat": -72.612, "lng": -46.879},
-			{"lat": -73.088, "lng": -45.668},
-			{"lat": -73.370, "lng": -44.833},
-			{"lat": -73.377, "lng": -44.679},
-			{"lat": -73.209, "lng": -44.372},
-			{"lat": -73.021, "lng": -44.273},
-			{"lat": -72.882, "lng": -44.372},
-			{"lat": -72.704, "lng": -44.822},
-			{"lat": -72.384, "lng": -43.207},
-			{"lat": -72.035, "lng": -44.031}
+			{"lat": -67.077, "lng": -51.291},
+			{"lat": -67.064, "lng": -50.313},
+			{"lat": -66.440, "lng": -47.423},
+			{"lat": -67.489, "lng": -45.863},
+			{"lat": -67.959, "lng": -48.017},
+			{"lat": -68.222, "lng": -49.258},
+			{"lat": -68.384, "lng": -50.192},
+			{"lat": -67.602, "lng": -50.906}
 		]
 	},
-
 	{
 		"title": "Innocence City Royals",
 		"notes": "",
@@ -473,6 +393,23 @@
 			{"lat": -71.949, "lng": -14.779},
 			{"lat": -72.237, "lng": -13.647},
 			{"lat": -72.940, "lng": -15.636}
+		]
+	},
+	{
+		"title": "The Black Mob",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/146-the-black-mob/#comments",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -74.599, "lng": -9.996},
+			{"lat": -75.423, "lng": -12.632},
+			{"lat": -75.544, "lng": -13.138},
+			{"lat": -75.840, "lng": -11.688},
+			{"lat": -76.019, "lng": -10.699},
+			{"lat": -75.569, "lng": -9.194},
+			{"lat": -75.102, "lng": -7.601}
 		]
 	}
 ]
