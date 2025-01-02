@@ -338,44 +338,7 @@
 		]
 		
 	},
-	{
-		"title": "Playboys 13 (PB13)",
-		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/319-playboys-13-pbs13/",
-		"order": 0,
-		"strokecolor": "043394",
-		"fillcolor": "043394",
-		"latlngarray": [
-			{"lat": -71.865, "lng": -46.736},
-			{"lat": -72.140, "lng": -47.889},
-			{"lat": -73.225, "lng": -45.302},
-			{"lat": -73.364, "lng": -44.808},
-			{"lat": -73.307, "lng": -44.522},
-			{"lat": -73.190, "lng": -44.346},
-			{"lat": -73.043, "lng": -44.291},
-			{"lat": -72.898, "lng": -44.368},
-			{"lat": -72.814, "lng": -44.533},
-			{"lat": -72.697, "lng": -44.808},
-			{"lat": -72.447, "lng": -45.401},
-			{"lat": -72.146, "lng": -46.071}
-		]
-	},
-	{
-		"title": "Playboys 13 (PB13)",
-		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/319-playboys-13-pbs13/",
-		"order": 0,
-		"strokecolor": "043394",
-		"fillcolor": "043394",
-		"latlngarray": [
-			{"lat": -71.947, "lng": -46.193},
-			{"lat": -71.628, "lng": -44.127},
-			{"lat": -72.385, "lng": -42.732},
-			{"lat": -72.779, "lng": -41.765},
-			{"lat": -73.034, "lng": -43.677},
-			{"lat": -72.431, "lng": -45.127}
-		]
-	},
+
 	{
 		"title": "Innocence City Royals",
 		"notes": "",
@@ -434,6 +397,47 @@
 			{"lat": -76.019, "lng": -10.699},
 			{"lat": -75.569, "lng": -9.194},
 			{"lat": -75.102, "lng": -7.601}
+		]
+	},
+	{
+		"title": "The Blackwood Syndicate",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/407-the-blackwood-syndicate/#comments",
+		"order": 0,
+		"strokecolor": "351c1f",
+		"fillcolor": "351c1f",
+		"latlngarray": [
+			{"lat": 59.551, "lng": 58.851},
+			{"lat": 61.140, "lng": 61.978},
+			{"lat": 64.153, "lng": 60.376},
+			{"lat": 64.249, "lng": 60.036},
+			{"lat": 64.110, "lng": 58.618},
+			{"lat": 64.095, "lng": 57.858},
+			{"lat": 64.187, "lng": 57.309},
+			{"lat": 64.830, "lng": 54.716},
+			{"lat": 64.155, "lng": 53.304},
+			{"lat": 63.096, "lng": 50.986},
+			{"lat": 62.887, "lng": 51.118},
+			{"lat": 61.964, "lng": 53.250},
+			{"lat": 60.933, "lng": 55.454},
+			{"lat": 60.390, "lng": 56.564},
+			{"lat": 60.155, "lng": 57.223},
+			{"lat": 59.947, "lng": 57.915}
+		]
+	},
+	{
+		"title": "The Blackwood Syndicate",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/407-the-blackwood-syndicate/#comments",
+		"order": 0,
+		"strokecolor": "351c1f",
+		"fillcolor": "351c1f",
+		"latlngarray": [
+			{"lat": -31.361, "lng": 23.029},
+			{"lat": -31.342, "lng": 28.961},
+			{"lat": -27.545, "lng": 28.708},
+			{"lat": -27.311, "lng": 28.181},
+			{"lat": -27.262, "lng": 22.743}
 		]
 	}
 ]
