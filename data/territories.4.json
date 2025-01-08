@@ -1,23 +1,8 @@
 [
 	{
-		"title": "Black Mafia Family",
+		"title": "Hye Connection",
 		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/95-black-mafia-family-bmf/",
-		"order": 0,
-		"strokecolor": "A35E19",
-		"fillcolor": "A35E19",
-		"latlngarray": [
-			{"lat": -73.484, "lng": -8.056},
-			{"lat": -74.166, "lng": -10.473},
-			{"lat": -74.942, "lng": -7.023},
-			{"lat": -74.226, "lng": -4.793}
-		]
-	},
-	
-	{
-		"title": "Kirshenbaum Network",
-		"notes": "Afiliação: Hye Connection",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/128-kirshenbaum-network/",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/156-hye-connection/",
 		"order": 0,
 		"strokecolor": "350563",
 		"fillcolor": "350563",
@@ -34,9 +19,9 @@
 		]
 	},
 	{
-		"title": "Kirshenbaum Network",
-		"notes": "Afiliação: Hye Connection",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/128-kirshenbaum-network/",
+		"title": "Hye Connection",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/156-hye-connection/",
 		"order": 0,
 		"strokecolor": "350563",
 		"fillcolor": "350563",
