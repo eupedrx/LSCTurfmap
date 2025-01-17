@@ -81,25 +81,18 @@
 	},
 
 	{
-		"title": "Kraja Organizimi",
+		"title": "Barrio The GodFathers",
 		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/75-kraja-organizimi/",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/615-barrio-the-godfathers/",
 		"order": 0,
-		"strokecolor": "650404",
-		"fillcolor": "650404",
+		"strokecolor": "491010",
+		"fillcolor": "491010",
 		"latlngarray": [
-			{"lat": -74.369, "lng": -19.892},
-			{"lat": -74.152, "lng": -19.244},
-			{"lat": -74.010, "lng": -18.750},
-			{"lat": -73.602, "lng": -17.508},
-			{"lat": -73.340, "lng": -18.574},
-			{"lat": -73.191, "lng": -18.827},
-			{"lat": -73.118, "lng": -19.837},
-			{"lat": -73.035, "lng": -20.551},
-			{"lat": -73.289, "lng": -20.540},
-			{"lat": -73.296, "lng": -21.694},
-			{"lat": -73.983, "lng": -21.705},
-			{"lat": -74.058, "lng": -21.320}
+			{"lat": -72.238, "lng": -19.833},
+			{"lat": -73.137, "lng": -16.196},
+			{"lat": -74.363, "lng": -19.899},
+			{"lat": -73.961, "lng": -21.745},
+			{"lat": -72.893, "lng": -21.712}
 		]
 	},
 
@@ -192,24 +185,6 @@
 			{"lat": -77.659, "lng": 11.415},
 			{"lat": -76.734, "lng": 11.767},
 			{"lat": -76.666, "lng": 8.196}
-		]
-	},
-	{
-		"title": "No Fucks Given",
-		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/97-no-fucks-given/",
-		"order": 0,
-		"strokecolor": "043394",
-		"fillcolor": "043394",
-		"latlngarray": [
-			{"lat": -75.111, "lng": -6.263},
-			{"lat": -74.413, "lng": -4.022},
-			{"lat": -74.630, "lng": -2.989},
-			{"lat": -74.662, "lng": -2.836},
-			{"lat": -74.895, "lng": -1.825},
-			{"lat": -75.512, "lng": -4.363},
-			{"lat": -75.341, "lng": -5.198},
-			{"lat": -75.321, "lng": -5.351}
 		]
 	},
 
