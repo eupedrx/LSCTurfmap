@@ -400,7 +400,6 @@
 		]
 	},
 	{
-		"type": "Territories",
 		"title": "Barrio The GodFathers",
 		"notes": "",
 		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/615-barrio-the-godfathers/",
@@ -416,6 +415,62 @@
 			{"lat": -72.158, "lng": -22.506},
 			{"lat": -72.382, "lng": -22.626},
 			{"lat": -73.482, "lng": -24.780}
+		]
+	},
+	{
+		"title": "Nerseh Hekimyan Gang",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/152-nerseh-hekimyan-gang/",
+		"order": 0,
+		"strokecolor": "E1C16E",
+		"fillcolor": "E1C16E",
+		"latlngarray": [
+			{"lat": -56.402, "lng": -8.539},
+			{"lat": -55.591, "lng": -12.429},
+			{"lat": -53.632, "lng": -11.176},
+			{"lat": -54.432, "lng": -7.331}
+		]
+	},
+	{
+		"title": "Nerseh Hekimyan Gang",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/152-nerseh-hekimyan-gang/",
+		"order": 0,
+		"strokecolor": "E1C16E",
+		"fillcolor": "E1C16E",
+		"latlngarray": [
+			{"lat": -54.761, "lng": -6.503},
+			{"lat": -55.328, "lng": -3.734},
+			{"lat": -57.194, "lng": -4.855},
+			{"lat": -56.594, "lng": -7.711}
+		]
+	},
+	{
+		"title": "Nerseh Hekimyan Gang",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/152-nerseh-hekimyan-gang/",
+		"order": 0,
+		"strokecolor": "E1C16E",
+		"fillcolor": "E1C16E",
+		"latlngarray": [
+			{"lat": -54.212, "lng": -7.179},
+			{"lat": -53.649, "lng": -6.805},
+			{"lat": -53.185, "lng": -8.849},
+			{"lat": -53.779, "lng": -9.233}
+		]
+	},
+	{
+		"title": "Nerseh Hekimyan Gang",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/152-nerseh-hekimyan-gang/",
+		"order": 0,
+		"strokecolor": "E1C16E",
+		"fillcolor": "E1C16E",
+		"latlngarray": [
+			{"lat": -52.252, "lng": -16.405},
+			{"lat": -51.534, "lng": -18.426},
+			{"lat": -48.616, "lng": -17.877},
+			{"lat": -48.529, "lng": -14.252}
 		]
 	}
 ]
