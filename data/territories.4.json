@@ -187,37 +187,6 @@
 			{"lat": -76.666, "lng": 8.196}
 		]
 	},
-
-	{
-		"title": "Tiny Raskal",
-		"notes": "",
-		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/47-es-tiny-raskal-gang/",
-		"order": 0,
-		"strokecolor": "666666",
-		"fillcolor": "666666",
-		"latlngarray":  [
-			{"lat": -71.199, "lng": -52.459},
-			{"lat": -70.711, "lng": -48.878},
-			{"lat": -69.950, "lng": -49.954},
-			{"lat": -69.577, "lng": -50.328},
-			{"lat": -69.010, "lng": -50.570},
-			{"lat": -68.573, "lng": -50.877},
-			{"lat": -68.021, "lng": -51.361},
-			{"lat": -68.144, "lng": -52.042},
-			{"lat": -68.225, "lng": -52.525},
-			{"lat": -68.258, "lng": -52.943},
-			{"lat": -68.476, "lng": -54.129},
-			{"lat": -69.292, "lng": -54.195},
-			{"lat": -69.462, "lng": -54.217},
-			{"lat": -69.570, "lng": -54.151},
-			{"lat": -69.722, "lng": -54.019},
-			{"lat": -69.912, "lng": -53.844},
-			{"lat": -70.167, "lng": -53.536},
-			{"lat": -70.367, "lng": -53.338},
-			{"lat": -70.639, "lng": -53.096},
-			{"lat": -70.870, "lng": -52.899}
-		]
-	},
 	{
 		"title": "Vespucci Imports",
 		"notes": "",
@@ -429,8 +398,26 @@
 			{"lat": -51.281, "lng": -0.191},
 			{"lat": -51.956, "lng": 2.930}
 		]
+	},
+	{
+		"type": "Territories",
+		"title": "Barrio The GodFathers",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/615-barrio-the-godfathers/",
+		"order": 0,
+		"strokecolor": "491010",
+		"fillcolor": "491010",
+		"latlngarray": [
+			{"lat": -73.904, "lng": -22.066},
+			{"lat": -72.848, "lng": -22.011},
+			{"lat": -72.178, "lng": -20.056},
+			{"lat": -71.664, "lng": -21.890},
+			{"lat": -71.674, "lng": -22.495},
+			{"lat": -72.158, "lng": -22.506},
+			{"lat": -72.382, "lng": -22.626},
+			{"lat": -73.482, "lng": -24.780}
+		]
 	}
-
 ]
 
 
