@@ -1,5 +1,18 @@
 [
-
+    {
+		"title": "106 Original Blocc Crips",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/813-106-original-blocc-crips/#comments",
+		"order": 0,
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -73.654, "lng": -12.724},
+			{"lat": -73.129, "lng": -9.461},
+			{"lat": -74.231, "lng": -4.759},
+			{"lat": -74.940, "lng": -7.066}
+		]
+	}
 ]
 
 
