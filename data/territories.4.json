@@ -1,5 +1,120 @@
 [
-  
+    {
+		"title": "Barrio The GodFathers",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/615-barrio-the-godfathers/#comments",
+		"order": 0,
+		"strokecolor": "491010",
+		"fillcolor": "491010",
+		"latlngarray": [
+			{"lat": -74.002, "lng": -18.790},
+            {"lat": -73.740, "lng": -19.839},
+			{"lat": -73.641, "lng": -19.866},
+			{"lat": -73.999, "lng": -21.569},
+			{"lat": -73.975, "lng": -21.732},
+			{"lat": -72.895, "lng": -21.677},
+			{"lat": -72.240, "lng": -19.798},
+			{"lat": -73.135, "lng": -16.195}
+		]
+	},
+    {
+		"title": "Innocence City Royals",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/70-innocence-city-royals/",
+		"order": 0,
+		"strokecolor": "723172",
+		"fillcolor": "723172",
+		"latlngarray": 
+		[
+			{"lat": -72.336, "lng": -4.913},
+			{"lat": -73.173, "lng": -1.584},
+			{"lat": -72.943, "lng": -1.123},
+			{"lat": -72.667, "lng": -0.760},
+			{"lat": -72.396, "lng": 0.042},
+			{"lat": -72.196, "lng": -0.222},
+			{"lat": -71.699, "lng": 0.119},
+			{"lat": -71.706, "lng": -1.156},
+			{"lat": -71.657, "lng": -1.320},
+			{"lat": -71.857, "lng": -2.408},
+			{"lat": -72.044, "lng": -3.441}
+		]
+	},
+    {
+		"title": "Blue Flame Gang",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/813-106-original-blocc-crips/#comments",
+		"order": 0,
+		"strokecolor": "7393B3",
+		"fillcolor": "7393B3",
+		"latlngarray": [
+			{"lat": -74.416, "lng": -9.393},
+			{"lat": -74.307, "lng": -8.997},
+			{"lat": -74.247, "lng": -8.305},
+			{"lat": -73.766, "lng": -6.811},
+			{"lat": -74.241, "lng": -4.800},
+			{"lat": -74.942, "lng": -7.042}
+		]
+	},
+    {
+		"title": "Mongols MC",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/50-the-laughlin-river-run-will-never-be-forgotten-%E2%80%94-splittin-lanes-smashin-lames/",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -69.449, "lng": -49.542},
+			{"lat": -69.348, "lng": -48.114},
+			{"lat": -69.329, "lng": -47.894},
+			{"lat": -69.091, "lng": -46.763},
+			{"lat": -69.963, "lng": -45.291},
+			{"lat": -70.296, "lng": -47.037},
+			{"lat": -70.347, "lng": -47.422},
+			{"lat": -70.347, "lng": -47.850},
+			{"lat": -70.314, "lng": -48.323},
+			{"lat": -70.273, "lng": -48.554},
+			{"lat": -70.229, "lng": -48.740}
+		]
+	},
+    {
+		"title": "Chosen Few MC",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/38-nobody-will-destroy-our-culture/",
+		"order": 0,
+		"strokecolor": "b81414",
+		"fillcolor": "ff0000",
+		"latlngarray": [
+			{"lat": -72.947, "lng": -15.631},
+			{"lat": -72.237, "lng": -13.631},
+			{"lat": -71.953, "lng": -14.774},
+			{"lat": -71.414, "lng": -13.060},
+			{"lat": -71.061, "lng": -13.115},
+			{"lat": -71.057, "lng": -15.367},
+			{"lat": -71.456, "lng": -15.422},
+			{"lat": -71.502, "lng": -18.158},
+			{"lat": -71.582, "lng": -18.960},
+			{"lat": -71.915, "lng": -19.806}
+		]
+	},
+    {
+		"title": "Nerseh Hekimyan Gang",
+		"notes": "",
+		"wiki_link": "https://ls-chronicles.com.br/forum/index.php?/topic/152-nerseh-hekimyan-gang/",
+		"order": 0,
+		"strokecolor": "E1C16E",
+		"fillcolor": "E1C16E",
+		"latlngarray": [
+			{"lat": -57.182, "lng": -4.877},
+			{"lat": -55.613, "lng": -12.458},
+			{"lat": -52.760, "lng": -10.568},
+			{"lat": -53.655, "lng": -6.789},
+			{"lat": -55.663, "lng": -8.041},
+			{"lat": -56.375, "lng": -4.350}
+		]
+	}
+
+
+    
 ]
 
 
